@@ -23,7 +23,7 @@ h1{
 font-weight:lighter;
 }
 .first{
-    width: 95vw;
+    width: 100vw;
     margin: 2em;
     
 }
@@ -53,6 +53,7 @@ footer{
     color: white;
     height: 2em;
     font-size:xx-large;
+    width: 98vw;
 }
 footer>p{
     padding:1rem;
